@@ -17,7 +17,7 @@ export default function Hero() {
       "
     >
       <p className="mb-4 text-sm font-medium uppercase tracking-[0.25em] text-neutral-500 dark:text-neutral-400">
-        TypeScript • Node.js • Full-Stack Developer
+        TypeScript • Node.js • Python • Full-Stack Developer
       </p>
 
       <div className="mb-6">
